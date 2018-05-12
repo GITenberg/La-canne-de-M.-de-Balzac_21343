@@ -1,0 +1,34 @@
+_repo: La-canne-de-M.-de-Balzac_21343
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Girardin, Emile de, Mme
+    aliases:
+    - Gay, Delphine
+    - Girardin, Delphine de
+    - Girardin, Mme Emile de
+    - Launay, Charles, vicomte de
+    - Girardon, Emile de, Mme
+    - Girardin, Delphine Gay de
+    birthdate: 1804
+    deathdate: 1855
+    gutenberg_agent_id: '9869'
+    url: http://www.gutenberg.org/2009/agents/9869
+description: ''
+gutenberg_bookshelf: FR Littérature
+gutenberg_issued: '2007-05-07'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '21343'
+language: fr
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PQ'
+- !lcsh 'Balzac, Honoré de, 1799-1850 -- Fiction'
+title: La canne de M. de Balzac
+url: http://www.gutenberg.org/ebooks/21343
